@@ -1,2 +1,8 @@
-# html-calculator
-A calculator (code of @junusergin) with HTML, JavaScript and CSS with nice design.
+# HTML-Calculator
+This is a Calculator with the Code of @JunusErgin. 
+
+How to use it:
+
+1. Download the "index.html" file
+2. Open the "index.html" file with Google Chrome or an other browser.
+3. **Finished**
